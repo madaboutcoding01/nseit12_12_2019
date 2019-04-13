@@ -1,0 +1,8 @@
+Git install
+d:> git clone https://github.com/madaboutcoding01/nseit12_12_2019.git
+user name : madaboutcoding01@gmail.com
+password: gulmohar@123
+> git add .
+> git commit -m "Rahil assignment"
+> git push
+
